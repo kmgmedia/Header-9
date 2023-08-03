@@ -1,0 +1,143 @@
+/* styling */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@100;200;500;700&display=swap');
+
+*{
+    font-family: DMsans, sans-serif;
+}
+
+/* styling button */
+
+.row {
+    margin: 0 !important;
+    
+}
+
+/* .nav-link {
+    color: #15143966 !important;
+} */
+
+
+
+.btn-hero {
+    border: 0;
+    padding: 10px 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: none;
+    color: aliceblue;
+    outline: none;
+    background: #482BE7;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.button {
+    padding-top: 100px;
+}
+
+.herotext h1 {
+    padding-top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 58px;
+    font-weight: 700;
+    font-variant-position: 226px;
+    color: #1E0E62;
+    line-height: 70px;
+    letter-spacing: -1;
+}
+
+.herotext p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #15143966;
+    padding-top: 20px;
+}
+
+.hero-img {
+    margin-left: 32%;
+    margin-top: 35%;
+    margin-bottom: 10%;
+}
+
+.hero-img img  {
+    width: 450px;
+    height: fit-content;
+    padding-bottom: 55px;
+}
+
+
+.upper{
+    display: inline-flex;
+    margin-top:30px;
+}
+
+.navigate a {
+    text-decoration: none;
+    color: #15143966;
+    font-size: 18px;
+    margin-left: 35px;
+}
+
+.navigate nav {
+    padding-left: 700px;
+}
+
+
+
+.btn-class button {
+    /* border: 5px; */
+    padding: 1px 1px;
+    padding-right: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-shadow: none;
+    background-color: none;
+    outline: 3px;
+    /* outline-color: #ba0000; */
+    /* background: #b0afb6; */
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.big-div {
+    display: flex;
+    gap: 400px;
+    margin-top: 5%;
+
+ 
+}
+
+.holo {
+    width: 80%;
+    margin: 70;
+}
+
+.div-img img {
+    width: 190px;
+    margin-left: 20%;
+}
+
+.buttom-footer {
+    background-color: #1E0E62;
+    padding: 65px;
+    width: 100%;
+}
+
+.div-text p {
+    color: #bcbcbc;
+    margin-top: 20px;
+    line-height: 28px;
+}
+
+.div-text h1 {
+    color: #fff;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+
+
+
+@media screen and (max-width: 992px) {
+    
+}
