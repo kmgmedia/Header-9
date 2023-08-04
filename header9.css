@@ -118,9 +118,14 @@
 }
 
 .buttom-footer {
-    background-color: #1E0E62;
-    padding: 65px;
-    width: 100%;
+    background-color: #2F1893;
+    padding: 30px;
+    width: 100%  
+}
+
+
+.buttom-footer {
+    height: 40%;
 }
 
 .div-text p {
@@ -134,6 +139,26 @@
     font-weight: 600;
     margin-top: 20px;
 }
+
+/* Components Session */
+
+.button-below {
+    background: #482BE7;
+    color: #bcbcbc;
+}
+
+.right-top-text {
+    padding-right: 70%;
+    padding-top: 8%;
+    gap: 80%;
+
+}
+
+.tip-img-png {
+    padding-top: 10%;
+}
+
+
 
 
 
