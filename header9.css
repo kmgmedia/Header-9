@@ -99,9 +99,10 @@
     font-size: 18px;
 }
 
+/* many useful components section */
 .big-div {
     display: flex;
-    gap: 50px;
+    gap: 100px;
     margin-top: 10%;
 }
 
@@ -113,19 +114,21 @@
 .div-img img {
     width: 60%;
     margin-right: 20%;
-    padding-bottom: 10%;
-    padding-top: -5;
+    padding-bottom: 30%;
+    padding-top: 0%;
 }
 
 .buttom-footer {
     background-color: #2F1893;
-    padding-bottom: 30px;
+    background-size: cover;
     width: 100%;
+    background-position: center;
+    align-content: center;
 }
 
-.buttom-footer {
-
-}
+/* .buttom-footer {
+    height: 400px;
+} */
 
 .div-text p {
     color: #bcbcbc;
@@ -141,7 +144,6 @@
     margin-top: 30px;
     margin-bottom: 5%;
 }
-
 
 
 
